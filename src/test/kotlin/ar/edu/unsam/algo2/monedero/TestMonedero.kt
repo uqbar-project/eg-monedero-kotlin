@@ -41,6 +41,10 @@ class TestMonedero : DescribeSpec({
         it("no se puede sacar más plata de la que hay") {
             shouldThrow<BusinessException> { monedero.sacar(BigDecimal(101)) }
         }
+
+        it("muestra el saldo en la representación del string") {
+            monedero.toString().shouldBe("Monedero ($ 100)")
+        }
     }
 
 })
