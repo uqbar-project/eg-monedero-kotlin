@@ -1,7 +1,7 @@
 
 # Ejercicio Manejo de Errores - Monedero
 
-[![Build Status](https://travis-ci.org/uqbar-project/eg-monedero-xtend.svg?branch=simple)](https://travis-ci.org/uqbar-project/eg-monedero-xtend)
+[![build](https://github.com/uqbar-project/eg-monedero-kotlin/actions/workflows/build.yml/badge.svg)](https://github.com/uqbar-project/eg-monedero-kotlin/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/uqbar-project/eg-monedero-kotlin/branch/master/graph/badge.svg?token=22CehsFCWV)](https://codecov.io/gh/uqbar-project/eg-monedero-kotlin)
 
 ## Dominio y explicación
 
