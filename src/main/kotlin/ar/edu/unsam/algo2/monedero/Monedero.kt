@@ -1,4 +1,4 @@
-package ar.edu.unsam.algo2.vehiculos
+package ar.edu.unsam.algo2.monedero
 
 import java.math.BigDecimal
 
